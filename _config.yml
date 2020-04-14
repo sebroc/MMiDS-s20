@@ -31,7 +31,6 @@ github_username:  sebroc
 # Build settings
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
-color_scheme: nil
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
