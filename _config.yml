@@ -29,7 +29,10 @@ twitter_username:
 github_username:  sebroc
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
 plugins:
   - jekyll-feed
 
