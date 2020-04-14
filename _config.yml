@@ -31,9 +31,8 @@ github_username:  sebroc
 # Build settings
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
-theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
