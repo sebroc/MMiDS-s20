@@ -8,7 +8,7 @@ nav_order: 1
 
 # Mathematical Methods in Data Science
 
-*Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics, University of Wisconsin-Madison
+*Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Mathematics, University of Wisconsin-Madison
 
 *Course number:* MATH 535
 
