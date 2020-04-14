@@ -14,7 +14,7 @@ layout: home
 
 ### Description
 
-This course on the mathematics of data has two intended audiences:
+This course on the **mathematics of data** has several intended audiences:
 
 - *For math majors:* it is meant as an invitation to data science from a mathematical perspective.
 
