@@ -31,7 +31,8 @@ github_username:  sebroc
 # Build settings
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
-search_enabled: true
+color_scheme: 
+search_enabled: false
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 footer_content: "Copyright &copy; 2020 Sebastien Roch. Distributed by an <a href=\"https://sebroc.github.io/MMiDS-s20/LICENSE\">MIT license.</a>"
