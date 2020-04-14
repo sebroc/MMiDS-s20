@@ -10,7 +10,7 @@ nav_order: 1
 
 *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics, University of Wisconsin-Madison
 
-*Course Number:* MATH 535
+*Course number:* MATH 535
 
 *Term:* Spring 2020
 
