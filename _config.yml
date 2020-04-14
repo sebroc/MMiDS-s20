@@ -32,7 +32,7 @@ github_username:  sebroc
 # theme: minima
 remote_theme: pmarsceill/just-the-docs
 color_scheme: 
-search_enabled: true
+search_enabled: false
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 footer_content: "Copyright &copy; 2020 Sebastien Roch. Distributed by an <a href=\"https://opensource.org/licenses/MIT\">MIT license.</a>"
