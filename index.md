@@ -6,13 +6,13 @@ layout: home
 
 ---
 
-## MATH 535: Mathematical Methods in Data Science
+# MATH 535: Mathematical Methods in Data Science
 
 *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics, University of Wisconsin-Madison
 
 *Term:* Spring 2020
 
-### Description
+## About
 
 This course on the **mathematics of data** has several intended audiences:
 
