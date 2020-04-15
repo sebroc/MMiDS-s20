@@ -15,7 +15,7 @@ nav_order: 3
 | Week 11 (April 5, 2020) |
 |:-- |
 | <span class="label label-green">Reading</span> Topic 4: Applications |
-| <span class="label label-green">Reading</span> Topic 5: Review, Optimality conditions |
+| <span class="label label-green">Reading</span> Topic 5: Review, Optimality conditions, Convexity |
 | <span class="label label-purple">Assignment</span> Homework 6 is due on April 17 (uploading instructions on Canvas) |
 
 | Week 10 (March 29, 2020) |
