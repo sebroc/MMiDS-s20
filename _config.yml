@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MMiDS
-email: 
+title: Mathematical Methods in Data Science
+author: Sebastien Roch
+tagline: Mathematical methods in data science 
 description: >- # this means to ignore newlines until "baseurl:"
   Course website for MATH 535: Mathematical Methods in Data Science
   at UW-Madison offered in Spring 2020
