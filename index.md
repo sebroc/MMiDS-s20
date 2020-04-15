@@ -25,11 +25,8 @@ While the emphasis will be on the mathematical concepts and proofs, students are
 
 *Quicklinks:* 
 <span class="fs-3">
-[Lecture Notes](./notes.html){: .btn .btn-blue .mr-1 }
+[Lecture Notes](./notes.html){: .btn .btn-purple .mr-1 }
 </span> 
 <span class="fs-3">
-[Final Project](./project.html){: .btn .btn-purple .mr-1 } 
-</span> 
-<span class="fs-3">
-[Julia](./julia.html){: .btn .btn-green .mr-1 } 
+[Course Info](./syllabus.html){: .btn .btn-green .mr-1 } 
 </span> 
