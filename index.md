@@ -12,13 +12,17 @@ nav_order: 1
 
 *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics
 
-*Quicklinks:* 
-<span class="fs-2">
-[Lecture Notes](./notes.html){: .btn .btn-purple .mr-1 }
+<span class="fs-3">
+[Course Info](./syllabus.html){: .btn .btn-blue .mr-1 } 
 </span> 
-<span class="fs-2">
-[Schedule](./schedule.html){: .btn .btn-green .mr-1 } 
+<span class="fs-3">
+[Schedule](./schedule.html){: .btn .btn-blue .mr-1 } 
 </span> 
+<span class="fs-3">
+[Lecture Notes](./notes.html){: .btn .btn-blue .mr-1 }
+</span> 
+
+***
 
 ## About
 
@@ -29,5 +33,5 @@ This course on the **mathematics of data** has several intended audiences:
 - *For (mathematically-inclined) students in data science (undergrad or grad):* it can serve as a mathematical companion to machine learning and statistics courses.
 
 Content-wise it is a **second course** in **linear algebra, probability and vector calculus** illustrated on **data science applications**. 
-While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](https://julialang.org/).
+While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](./julia.html).
 
