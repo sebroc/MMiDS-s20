@@ -6,9 +6,15 @@ nav_order: 3
 
 ---
 
+![blackboard](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pure-mathematics-formulæ-blackboard.jpg/320px-Pure-mathematics-formulæ-blackboard.jpg)
+{: .d-inline-block .mr-2}
+
+![code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/320px-Python_add5_syntax.svg.png)
+{: .d-inline-block }
+
 ## Final Project
 
-Your final project consists in writing a tutorial on a machine learning method (from a list posted on Piazza). Your target audience is someone who has taken Math 535. It should take the form of a single Jupyter notebook with the following sections being required:
+Your final project consists in writing a tutorial on a machine learning method (from a list posted on Piazza). Your target audience is someone who has taken Math 535. It should take the form of a single [Jupyter notebook](https://jupyter.org) with the following sections being required:
 
 1. *Introduction:* general background on the problem
 
@@ -16,7 +22,7 @@ Your final project consists in writing a tutorial on a machine learning method (
 
 1. *Implementation:* your own Julia implementation of the method
 
-1. *Data:* choose one or two relevant datasets (simulated or real), either from the course or from somewhere else (e.g. Kaggle), to illustrate your code
+1. *Data:* choose one or two relevant datasets (simulated or real), either from the course or from somewhere else (e.g. [Kaggle](https://www.kaggle.com)), to illustrate your code
 
 1. *References:* make sure to acknowledge any material you used
 
