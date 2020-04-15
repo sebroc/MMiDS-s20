@@ -1,12 +1,14 @@
 ---
 
-title: Julia
+title: Julia and Jupyter
 layout: default
 nav_order: 5
 
 ---
 
 ![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)
+
+
 
 ## Julia programming
 
@@ -23,4 +25,5 @@ Some resources for learning Julia:
 - If you are already familiar with MATLAB or Python, this [cheatsheet](https://cheatsheets.quantecon.org/) is useful.
 
 - If you do not have much programming experience, this [textbook](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) may be helpful.
+
 
