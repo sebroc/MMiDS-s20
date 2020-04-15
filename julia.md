@@ -6,6 +6,8 @@ nav_order: 5
 
 ---
 
+![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)
+
 ## Julia programming
 
 There will be several programming assignments in [Julia](https://julialang.org/). The basics of the language will be discussed in class.
