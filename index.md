@@ -12,6 +12,14 @@ nav_order: 1
 
 *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics
 
+*Quicklinks:* 
+<span class="fs-2">
+[Lecture Notes](./notes.html){: .btn .btn-purple .mr-1 }
+</span> 
+<span class="fs-2">
+[Schedule](./schedule.html){: .btn .btn-green .mr-1 } 
+</span> 
+
 ## About
 
 This course on the **mathematics of data** has several intended audiences:
@@ -23,10 +31,3 @@ This course on the **mathematics of data** has several intended audiences:
 Content-wise it is a **second course** in **linear algebra, probability and vector calculus** illustrated on **data science applications**. 
 While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](https://julialang.org/).
 
-*Quicklinks:* 
-<span class="fs-2">
-[Lecture Notes](./notes.html){: .btn .btn-purple .mr-1 }
-</span> 
-<span class="fs-2">
-[Schedule](./schedule.html){: .btn .btn-green .mr-1 } 
-</span> 
