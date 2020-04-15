@@ -22,3 +22,14 @@ This course on the **mathematics of data** has several intended audiences:
 
 Content-wise it is a **second course** in **linear algebra, probability and vector calculus** illustrated on **data science applications**. 
 While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](https://julialang.org/).
+
+*Quicklinks:* 
+<span class="fs-3">
+[Lecture Notes](){: .btn .btn-blue .mr-1 }
+</span> 
+<span class="fs-3">
+[Final Project](){: .btn .btn-purple .mr-1 } 
+</span> 
+<span class="fs-3">
+[Julia](./julia.html){: .btn .btn-green .mr-1 } 
+</span> 
