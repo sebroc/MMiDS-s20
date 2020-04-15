@@ -30,6 +30,13 @@ github_username: sebroc
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+footer_content: "Copyright &copy; 2020 Sebastien Roch. Distributed under an <a href=\"https://opensource.org/licenses/MIT\">MIT license.</a>"
+aux_links:
+  "Sebastien Roch, UW-Madison":
+    - "http://www.math.wisc.edu/~roch/"
 plugins:
   - jekyll-feed
 
