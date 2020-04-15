@@ -8,9 +8,9 @@ nav_order: 1
 
 # Mathematical Methods in Data Science
 
-*Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Mathematics, University of Wisconsin-Madison
+*Course:* [MATH 535](https://www.math.wisc.edu/node/787), Spring 2020, University of Wisconsin-Madison
 
-*Course:* [MATH 535](https://www.math.wisc.edu/node/787), Spring 2020
+*Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics
 
 ## About
 
@@ -25,10 +25,10 @@ While the emphasis will be on the mathematical concepts and proofs, students are
 
 *Quicklinks:* 
 <span class="fs-3">
-[Lecture Notes](){: .btn .btn-blue .mr-1 }
+[Lecture Notes](./notes.html){: .btn .btn-blue .mr-1 }
 </span> 
 <span class="fs-3">
-[Final Project](){: .btn .btn-purple .mr-1 } 
+[Final Project](./project.html){: .btn .btn-purple .mr-1 } 
 </span> 
 <span class="fs-3">
 [Julia](./julia.html){: .btn .btn-green .mr-1 } 
