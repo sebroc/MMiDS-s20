@@ -1,6 +1,6 @@
 ---
 
-title: Syllabus
+title: Course Info
 layout: default
 nav_order: 2
 
