@@ -24,9 +24,9 @@ Content-wise it is a **second course** in **linear algebra, probability and vect
 While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](https://julialang.org/).
 
 *Quicklinks:* 
-<span class="fs-3">
+<span class="fs-2">
 [Lecture Notes](./notes.html){: .btn .btn-purple .mr-1 }
 </span> 
-<span class="fs-3">
-[Course Info](./syllabus.html){: .btn .btn-green .mr-1 } 
+<span class="fs-2">
+[Schedule](./schedule.html){: .btn .btn-green .mr-1 } 
 </span> 
