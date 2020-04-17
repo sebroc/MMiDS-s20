@@ -6,12 +6,13 @@ nav_order: 4
 
 ---
 
-## Lecture Notes
+# Lecture notes
 {: .no_toc }
+
 
 Lecture notes will be posted here throughout the semester.
 
-***
+<br>
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,10 +20,12 @@ Lecture notes will be posted here throughout the semester.
 1. TOC
 {:toc}
 
+<br>
+
+
+## Topic 1: Geometry and probability in high dimension
+
 ***
-
-
-### Topic 1: Geometry and probability in high dimension
 
 Theory
 {: .label .label-green }
@@ -38,9 +41,11 @@ Applications
 - k-means clustering ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/highdim-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/highdim-app.ipynb)
 - datasets: [iris-measurements.csv](http://www.math.wisc.edu/~roch/mmids/iris-measurements.csv), [iris-species.csv](http://www.math.wisc.edu/~roch/mmids/iris-species.csv)
 
-<br/>
+<br>
 
-### Topic 2: Orthogonality, QR and least squares
+## Topic 2: Orthogonality, QR and least squares
+
+***
 
 Theory
 {: .label .label-green }
@@ -57,9 +62,11 @@ Applications
 - linear regression ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/orthog-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/orthog-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/orthog-app.ipynb)
 - datasets: [advertising.csv](http://www.math.wisc.edu/~roch/mmids/advertising.csv), [msn-flight-data-19.csv](http://www.math.wisc.edu/~roch/mmids/msn-flight-data-19.csv)
 
-<br/>
+<br>
 
-### Topic 3: Matrix norms, low-rank approximations, and SVD
+## Topic 3: Matrix norms, low-rank approximations, and SVD
+
+***
 
 Theory
 {: .label .label-green }
@@ -76,9 +83,11 @@ Applications
 - dimensionality reduction ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/svd-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/svd-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/svd-app.ipynb)
 - datasets: [movielens-small-movies.csv](http://www.math.wisc.edu/~roch/mmids/movielens-small-movies.csv), [movielens-small-ratings.csv](http://www.math.wisc.edu/~roch/mmids/movielens-small-ratings.csv), [h3n2-snp.csv](http://www.math.wisc.edu/~roch/mmids/h3n2-snp.csv), [h3n2-other.csv](http://www.math.wisc.edu/~roch/mmids/h3n2-other.csv)
 
-<br/>
+<br>
 
-### Topic 4: Introduction to spectral graph theory
+## Topic 4: Introduction to spectral graph theory
+
+***
 
 Theory
 {: .label .label-green }
@@ -96,9 +105,11 @@ Applications
 - datasets: [panda.jpg](http://www.math.wisc.edu/~roch/mmids/panda.jpg)
 
 
-<br/>
+<br>
 
-### Topic 5: Convexity, gradient descent and automatic differentiation
+## Topic 5: Convexity, gradient descent and automatic differentiation
+
+***
 
 Theory
 {: .label .label-green }
@@ -116,11 +127,11 @@ Applications
 - deep neural networks ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app2.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app2.ipynb)
 - datasets: [lebron.csv](http://www.math.wisc.edu/~roch/mmids/lebron.csv), [advertising.csv](http://www.math.wisc.edu/~roch/mmids/advertising.csv), [SAHeart.csv](http://www.math.wisc.edu/~roch/mmids/SAHeart.csv)
 
- <br/>
+ <br>
 
-### Topic 6: Probabilistic modeling [available soon]
+## Topic 6: Probabilistic modeling [available soon]
 
- <br/>
+ <br>
 
 
 
