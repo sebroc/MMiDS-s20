@@ -1,5 +1,0 @@
-name: mmids-s20-environment
-channels:
-  - conda-forge
-dependencies:
-  - julia=1.3.1
