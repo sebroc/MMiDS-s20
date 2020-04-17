@@ -6,7 +6,8 @@ nav_order: 3
 
 ---
 
-## Schedule
+# Schedule
+
 
 | Week 12 (April 12, 2020) |
 |:-- |
