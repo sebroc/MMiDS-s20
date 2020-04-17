@@ -35,7 +35,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- k-means clustering ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/highdim-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-app.ipynb))
+- k-means clustering ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/highdim-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/highdim-app.ipynb)
 - datasets: [iris-measurements.csv](http://www.math.wisc.edu/~roch/mmids/iris-measurements.csv), [iris-species.csv](http://www.math.wisc.edu/~roch/mmids/iris-species.csv)
 
 <br/>
@@ -54,7 +54,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- linear regression ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/orthog-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/orthog-app.ipynb))
+- linear regression ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/orthog-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/orthog-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/orthog-app.ipynb)
 - datasets: [advertising.csv](http://www.math.wisc.edu/~roch/mmids/advertising.csv), [msn-flight-data-19.csv](http://www.math.wisc.edu/~roch/mmids/msn-flight-data-19.csv)
 
 <br/>
@@ -73,7 +73,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- dimensionality reduction ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/svd-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/svd-app.ipynb))
+- dimensionality reduction ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/svd-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/svd-app.ipynb)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/svd-app.ipynb)
 - datasets: [movielens-small-movies.csv](http://www.math.wisc.edu/~roch/mmids/movielens-small-movies.csv), [movielens-small-ratings.csv](http://www.math.wisc.edu/~roch/mmids/movielens-small-ratings.csv), [h3n2-snp.csv](http://www.math.wisc.edu/~roch/mmids/h3n2-snp.csv), [h3n2-other.csv](http://www.math.wisc.edu/~roch/mmids/h3n2-other.csv)
 
 <br/>
@@ -92,7 +92,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- community detection and image segmentation ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/spectral-app.slides.html))
+- community detection/image segmentation ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/spectral-app.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/spectral-app.ipynb) 
 - datasets: [panda.jpg](http://www.math.wisc.edu/~roch/mmids/panda.jpg)
 
 
@@ -112,7 +112,8 @@ Theory
 Applications
 {: .label .label-purple }
 
-- logistic regression ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app1.slides.html)), deep neural networks ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app2.slides.html))
+- logistic regression ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app1.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app1.ipynb) 
+- deep neural networks ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app2.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app2.ipynb)
 - datasets: [lebron.csv](http://www.math.wisc.edu/~roch/mmids/lebron.csv), [advertising.csv](http://www.math.wisc.edu/~roch/mmids/advertising.csv), [SAHeart.csv](http://www.math.wisc.edu/~roch/mmids/SAHeart.csv)
 
  <br/>
