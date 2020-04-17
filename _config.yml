@@ -35,11 +35,17 @@ search_enabled: false
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 footer_content: "Copyright &copy; 2020 Sebastien Roch. Distributed under an <a href=\"https://opensource.org/licenses/MIT\">MIT license.</a>"
+
 aux_links:
   "Sebastien Roch, UW-Madison":
     - "http://www.math.wisc.edu/~roch/"
+
 plugins:
   - jekyll-feed
+
+# Google Analytics Tracking
+# e.g, UA-163849624-1
+ga_tracking: UA-163849624-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
