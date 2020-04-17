@@ -6,7 +6,7 @@ nav_order: 2
 
 ---
 
-## Course information
+## Course Information
 
 - *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/)
 
