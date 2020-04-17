@@ -2,7 +2,7 @@
 
 title: Julia and Jupyter
 layout: default
-nav_order: 5
+nav_order: 6
 
 ---
 
@@ -10,7 +10,7 @@ nav_order: 5
 
 
 
-## Julia programming
+## Julia Programming
 
 There will be several programming assignments in [Julia](https://julialang.org/). The basics of the language will be discussed in class.
 
