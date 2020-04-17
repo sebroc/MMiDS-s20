@@ -6,6 +6,8 @@ nav_order: 3
 
 ---
 
+## Schedule
+
 | Week 12 (April 12, 2020) |
 |:-- |
 | <span class="label label-green">Reading</span> Topic 5: Gradient descent, Applications |
