@@ -6,4 +6,4 @@ Course website for:
 
 > **MATH 535 - Mathematical Methods in Data Science (Spring 2020)**
 >
-> [Sebastien Roch](http://www.math.wisc.edu/~roch/), *Department of Mathematics, University of Wisconsin-Madison*
+> [Sebastien Roch](http://www.math.wisc.edu/~roch/), Department of Mathematics, University of Wisconsin-Madison
