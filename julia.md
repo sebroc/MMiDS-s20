@@ -10,7 +10,7 @@ nav_order: 6
 
 
 
-## Julia Programming
+# Julia Programming
 
 There will be several programming assignments in [Julia](https://julialang.org/). The basics of the language will be discussed in class.
 
