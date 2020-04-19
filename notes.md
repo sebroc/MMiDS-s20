@@ -131,6 +131,23 @@ Applications
 
 ## Topic 6: Probabilistic modeling, inference and sampling [available soon]
 
+***
+
+Theory
+{: .label .label-green }
+
+- motivating example: location tracking ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/proc-intro.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-intro.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-intro.slides.html))
+- review (see Sections 2.3.1-4, 2.3.9 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- mixtures (see Sections 9.2.1-2, 9.3.1-2 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- graphical models (see Sections 8.1.2-4, 8.2, 13.1, 13.2.1-2, 13.3.1 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+
+Applications
+{: .label .label-purple }
+
+- Twitter sentiment analysis ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app1.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app1.ipynb) 
+- Kalman filtering ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app2.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app2.ipynb)
+- datasets: [twitter-sentiment.csv](http://www.math.wisc.edu/~roch/mmids/twitter-sentiment.csv)
+
  <br>
 
 
