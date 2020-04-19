@@ -12,9 +12,9 @@ nav_order: 5
 ![code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/320px-Python_add5_syntax.svg.png)
 {: .d-inline-block }
 
-## Final Project
+# Final Project
 
-### Instructions
+## Instructions
 
 Your final project consists in writing a tutorial on a machine learning method (from a list posted on Piazza). Your target audience is someone who has taken Math 535. It should take the form of a single [Jupyter notebook](https://jupyter.org) with the following sections being required:
 
@@ -30,7 +30,7 @@ Your final project consists in writing a tutorial on a machine learning method (
 
 There is no strict page limit. But you should aim for 10-15 pages when converted into a PDF. It will be due on the last day of classes. I will post instructions on Canvas on how to upload it. You can work individually or in a team of 2-3 students. I encourage you to work in teams. There is also a special post on the Piazza board to help you find teammates. You will be asked to provide progress reports every couple weeks. 
 
-### Resources
+## Resources
 
 Here are some useful tools for remote collaboration:
 
