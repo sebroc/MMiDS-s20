@@ -32,6 +32,6 @@ This course on the **mathematics of data** has several intended audiences:
 
 - *For (mathematically-inclined) students in data science (undergrad or grad):* it can serve as a mathematical companion to machine learning and statistics courses.
 
-Content-wise it is a **second course** in **linear algebra, probability and vector calculus** illustrated on **data science applications**. 
+Content-wise it is a **second course** in **linear algebra, vector calculus and probability** illustrated on **data science applications**. 
 While the emphasis will be on the mathematical concepts and proofs, students are expected to learn the programming language [Julia](./julia.html).
 
