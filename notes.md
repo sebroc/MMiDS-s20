@@ -129,7 +129,7 @@ Applications
 
  <br>
 
-## Topic 6: Probabilistic modeling [available soon]
+## Topic 6: Probabilistic modeling, inference and sampling [available soon]
 
  <br>
 
