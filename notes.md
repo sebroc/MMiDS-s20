@@ -129,7 +129,24 @@ Applications
 
  <br>
 
-## Topic 6: Probabilistic modeling, inference and sampling [available soon]
+## Topic 6: Probabilistic modeling, inference and sampling
+
+***
+
+Theory
+{: .label .label-green }
+
+- motivating example: [location tracking](https://towardsdatascience.com/optimal-estimation-algorithms-kalman-and-particle-filters-be62dcb5e83)
+- review (see Sections 2.3.1-4, 2.3.9 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- mixtures (see Sections 9.2.1-2, 9.3.1-3 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- graphical models (see Sections 8.1.2-4, 8.2, 13.1, 13.2.1-2, 13.3.1 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+
+Applications
+{: .label .label-purple }
+
+- Twitter sentiment analysis ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app1.slides.html)) 
+- Kalman filtering (see Sections 13.3.1 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- datasets: [twitter-sentiment.csv](http://www.math.wisc.edu/~roch/mmids/twitter-sentiment.csv)
 
  <br>
 
