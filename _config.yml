@@ -34,7 +34,7 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
-footer_content: "Copyright &copy; 2020 Sebastien Roch. Distributed under a <a href=\"https://github.com/sebroc/MMiDS-s20/blob/master/LICENSE\">CC BY-SA 4.0 license.</a>"
+footer_content: "Copyright &copy; 2020 Sebastien Roch. All rights reserved."
 
 aux_links:
   "Sebastien Roch, UW-Madison":
