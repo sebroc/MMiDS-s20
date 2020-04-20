@@ -34,7 +34,7 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
-footer_content: "Copyright &copy; 2020 Sebastien Roch. All rights reserved."
+footer_content: "Copyright &copy; 2020 Sebastien Roch"
 
 aux_links:
   "Sebastien Roch, UW-Madison":
