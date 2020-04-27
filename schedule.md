@@ -8,6 +8,12 @@ nav_order: 3
 
 # Schedule
 
+| Week 14 (April 26, 2020) |
+|:-- |
+| <span class="label label-green">Reading</span> [Topic 6](./notes.html#topic-6-probabilistic-modeling-inference-and-sampling): Inference and estimation, Applications |
+| <span class="label label-purple">Assignment</span> No homework this week (optional suggested exercises: 8.1, 8.2, 8.5, 8.8, 8.9, 13.1, 13.4, 13.8, 13.9  in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)]) |
+
+
 | Week 13 (April 19, 2020) |
 |:-- |
 | <span class="label label-green">Reading</span> [Topic 6](./notes.html#topic-6-probabilistic-modeling-inference-and-sampling): Review, Mixtures |
