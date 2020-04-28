@@ -8,7 +8,7 @@ nav_order: 2
 
 # Course Information
 
-## Details
+## Administrativia
 
 - *Instructor:* [Sebastien Roch](http://www.math.wisc.edu/~roch/)
 
