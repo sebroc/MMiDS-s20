@@ -136,16 +136,17 @@ Applications
 Theory
 {: .label .label-green }
 
-- motivating example: [location tracking](https://towardsdatascience.com/optimal-estimation-algorithms-kalman-and-particle-filters-be62dcb5e83)
+- motivating example ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/prob-intro.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-intro.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-intro.slides.html))
 - review ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/prob-review.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-review.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-review.slides.html))
 - joint distributions: marginalization and conditional independence ([html](https://nbviewer.jupyter.org/urls/www.math.wisc.edu/~roch/mmids/prob-joint.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-joint.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-joint.slides.html))
-- inference and estimation: computing marginals and conditionals (see Sections 9.2.1-2, 9.3.1-3 , 13.1, 13.2.1-2 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- inference and parameter estimation: variable elimination and expectation-maximization (see Sections 9.2.1-2, 9.3.1-3 , 13.1, 13.2.1-2 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- sampling: Markov chain Monte Carlo methods (see Sections 11.2-3 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
 
 Applications
 {: .label .label-purple }
 
 - Twitter sentiment analysis ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app1.slides.html)) 
-- Kalman filtering (see Sections 13.3.1 in [[Bis](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)])
+- Kalman filtering ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app2.slides.html))
 - datasets: [twitter-sentiment.csv](http://www.math.wisc.edu/~roch/mmids/twitter-sentiment.csv)
 
  <br>
