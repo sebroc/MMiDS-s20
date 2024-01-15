@@ -30,7 +30,7 @@ Lecture notes will be posted here throughout the semester.
 Theory
 {: .label .label-green }
 
-- a first data science example: species delimitation ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/highdim-intro.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-intro.ipynb))
+- a first data science example: species delimitation ([html](https://nbviewer.jupyter.org/url/people.math.wisc.edu/~roch/mmids_backup_011024/highdim-intro.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-intro.ipynb))
 - review ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/highdim-review.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-review.ipynb))
 - high-dimensional space ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/highdim-space.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-space.ipynb))
 - clustering: an objective, an algorithm, and a toy example ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/highdim-kmeans.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/highdim-kmeans.ipynb))
@@ -101,7 +101,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- community detection/image segmentation ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/spectral-app.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/spectral-app.ipynb) 
+- community detection/image segmentation ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/spectral-app.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/spectral-app.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/spectral-app.ipynb)
 - datasets: [panda.jpg](http://www.math.wisc.edu/~roch/mmids/panda.jpg)
 
 
@@ -123,7 +123,7 @@ Theory
 Applications
 {: .label .label-purple }
 
-- logistic regression ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app1.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app1.ipynb) 
+- logistic regression ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app1.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app1.ipynb)
 - deep neural networks ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/opt-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/opt-app2.slides.html)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master?filepath=notebooks/opt-app2.ipynb)
 - datasets: [lebron.csv](http://www.math.wisc.edu/~roch/mmids/lebron.csv), [advertising.csv](http://www.math.wisc.edu/~roch/mmids/advertising.csv), [SAHeart.csv](http://www.math.wisc.edu/~roch/mmids/SAHeart.csv)
 
@@ -145,15 +145,8 @@ Theory
 Applications
 {: .label .label-purple }
 
-- Twitter sentiment analysis ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app1.slides.html)) 
+- Twitter sentiment analysis ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app1.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app1.slides.html))
 - Kalman filtering ([html](https://nbviewer.jupyter.org/url/www.math.wisc.edu/~roch/mmids/prob-app2.ipynb), [ipynb](http://www.math.wisc.edu/~roch/mmids/prob-app2.ipynb), [slides](http://www.math.wisc.edu/~roch/mmids/prob-app2.slides.html))
 - datasets: [twitter-sentiment.csv](http://www.math.wisc.edu/~roch/mmids/twitter-sentiment.csv)
 
  <br>
-
-
-
-
-
-
-
