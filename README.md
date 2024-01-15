@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebroc/MMiDS-s20/master)
 
-# Math535-s20
+# MMiDS-s20
 
 Course website for: 
 
